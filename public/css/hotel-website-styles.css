@@ -1,0 +1,72 @@
+
+
+.mini-body{
+	background-image: url(hotel-1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+
+
+}
+
+
+
+.header{
+	height: 50px;
+	display: flex;
+	background: black;
+	
+
+}
+
+.header li{
+	display: inline;
+	color: white;
+	margin-right: 50px;
+	font-weight: bolder;
+}
+
+.title{
+	font-weight: bold;
+	font-size: 20px;
+	border-width: 5px;
+	border-color: tan;
+	border-style: double;
+	padding-top: 8px;
+}
+
+h1{
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top: 150px;
+	font-size: 80px;
+	color: white;
+	font-family: cursive;
+
+}
+
+.sub{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	height: 200px;
+	justify-content: center;
+	align-items: center;
+}
+.sub div{
+	height: 30px;
+	width: 150px;
+	background-color: mediumaquamarine;
+	margin: 5px;
+	border-radius: 10px;
+	text-align: center;
+	padding: 10px;
+	font-weight: bolder;
+	color: white;
+	/*border-style: groove;
+	border-width: 2px;
+	border-color: gold;*/
+	
+
+}

@@ -1,0 +1,29 @@
+h3{
+	color: white;
+	font-size: 50px;
+	text-align: right;
+}
+
+h4{
+	color: black;
+	font-size: 40px;
+	text-align: center;
+
+}
+
+h5{
+	color: white;
+	font-size: 40px;
+	text-align: center;
+}
+
+
+
+.col-md-3{
+	border: solid;
+
+}
+
+.col-md-6{
+	border: solid;
+}

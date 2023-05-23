@@ -1,0 +1,47 @@
+.flag-1, .flag-2, .flag-3 {
+	height: 40px;
+	width: 40px;
+}
+
+.logo{
+	font-weight: bolder;
+}
+
+.about-us{
+	font-weight: bolder;
+}
+
+
+.image{
+	height: 250px;
+	background-color: grey;
+}
+
+.img-responsive{
+	height: 250px;
+	width: 1170px;
+	
+}
+
+.footer-1{
+	font-weight: bolder;
+	text-align: center;
+	color: gold;
+	
+}
+
+.footer-2{
+	font-weight: bolder;
+	text-align: center;
+	color: greenyellow;
+	
+
+}
+
+.footer-3{
+	font-weight: bolder;
+	text-align: center;
+	height: 70px;
+	color: white;
+	
+}
